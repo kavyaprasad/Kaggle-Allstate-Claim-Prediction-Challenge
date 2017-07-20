@@ -5,7 +5,7 @@ Components in zip folder:
 1. readme
 2. the dataset (train.zip)
 3. vsureshb_B659_ProjectReport - the project report
-4. vsureshb_B659_ProjectCode - code for the project.
+4. ProjectCode - code for the project.
 
 Opening the ipython notebook:
 
