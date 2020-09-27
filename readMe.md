@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1600" height="400" src="images/allstate.png">
+  <img width="1600" height="200" src="images/allstate.png">
 </p>
 
 
